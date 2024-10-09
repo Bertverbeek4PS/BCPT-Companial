@@ -16,7 +16,7 @@ using System.Tooling;
 using Microsoft.CRM.Contact;
 using Microsoft.CRM.Duplicates;
 
-codeunit 60131 "BCPT Warehouse Tasks"
+codeunit 60141 "BCPT Warehouse Tasks"
 {
     SingleInstance = true;
 
