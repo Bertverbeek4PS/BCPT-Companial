@@ -1,6 +1,10 @@
 {
   "country": "us",
-  "appFolders": [],
+  "appFolders": [
+    "Companial"
+  ],
   "testFolders": [],
-  "bcptTestFolders": []
+  "bcptTestFolders": [
+    "Companial.PerformanceTest"
+  ]
 }
